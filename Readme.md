@@ -17,4 +17,5 @@ Print some as gifts for your favourite geologist.
   - Gallena
   - Olivine
   - Sessartine
+  
 ![polyhedra](polyhedra.png)
