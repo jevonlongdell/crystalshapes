@@ -8,7 +8,7 @@ Print some as gifts for your favourite geologist.
 
 * STL and 3mf files available also.
 
-* The STL files can be previewed in github website.
+* The STL files can be previewed in the github website.
 
 - Shapes include:
   - [Cube](files/cube.stl)
