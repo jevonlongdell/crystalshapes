@@ -12,10 +12,10 @@ Print some as gifts for your favourite geologist.
 
 - Shapes include:
   - [Cube](files/cube.stl)
-  - Octahedron
-  - Rhombic dodecahedron
-  - Gallena
-  - Olivine
-  - Spessartine
+  - [Octahedron](files/octahedron.stl)
+  - [Rhombic dodecahedron](files/rhombic_dodecahedron.stl)
+  - [Gallena](files/gallena.stl)
+  - [Olivine](files/olivine.stl)
+  - [Spessartine](files/spessartine.stl)
 
 ![polyhedra](polyhedra.png)
