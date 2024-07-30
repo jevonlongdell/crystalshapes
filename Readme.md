@@ -1,4 +1,4 @@
-## 3D models of crystal growth habits
+## 3D Models of Crystal Growth Habits
 
 A collection of polyhedra, many of which describe crystal growth habits. 
 Print some as gifts for your favourite geologist.
@@ -11,11 +11,11 @@ Print some as gifts for your favourite geologist.
 * The STL files can be previewed in github website.
 
 - Shapes include:
-  - Cube
+  - [Cube](files/cube.stl)
   - Octahedron
   - Rhombic dodecahedron
   - Gallena
   - Olivine
-  - Sessartine
-  
+  - Spessartine
+
 ![polyhedra](polyhedra.png)
